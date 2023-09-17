@@ -31,6 +31,7 @@ My expertise includes the following programming languages:
 - Docker
 - PostgreSQL
 - TypeScript
+- NextJS
 
 ## Connect with Me 🌐
 
